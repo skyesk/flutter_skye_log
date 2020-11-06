@@ -2,7 +2,6 @@ name: flutter_skye_log
 description: 日志工具类
 version: 0.0.1
 author: Skye
-homepage:
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
